@@ -1,0 +1,185 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.nav {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+div.nav ul {
+  display: flex;
+  margin-left: 350px;
+}
+div.nav ul li a {
+  color: #0534cc;
+}
+div.nav ul li a:hover {
+  color:navy;
+}
+div.nav a .paypal-logo {
+  width: 200px;
+  position: relative;
+  bottom: 25px;
+  right: 100px;
+}
+div.button-menu {
+  text-align: center;
+  margin-right: 10%;
+}
+div.button-menu > input[type="button"] {
+  background-color: #001e6c;
+  color: white;
+  font-size: 20px;
+  padding: 5px 30px 10px 50px;
+}
+div.button-menu > input[type="button"]:hover {
+  border: none;
+  background-color: #22577e;
+  cursor: pointer;
+  padding: 15px;
+}
+.rectangle {
+  background-color: #22577e;
+  width: 65%;
+  height: 35px;
+  margin-left: 14%;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+div.welcome {
+  background-color: #eeeeee;
+  width: 70%;
+  height: 240px;
+  margin: 25px 0 0 50px;
+}
+.welcome > input {
+  display: block;
+  background-color: #cdd0cb;
+  margin-left: 30px;
+  padding: 2px;
+  border-radius: 5px;
+}
+.fa-play {
+  color: #0534cc;
+  margin-left: 15px;
+}
+.p-class {
+  background-color: #cdd0cb;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px 5px 5px 10px;
+}
+div.news {
+  background-color: #eeeeee;
+  width: 70%;
+  height: 250px;
+  margin: 25px 0 0 50px;
+}
+.news a {
+  color: #0534cc;
+  position: relative;
+}
+div.news span {
+  color: #0534cc;
+  font-weight: normal;
+  position: relative;
+  left: 80px;
+}
+.p1 {
+  text-align: right;
+}
+div.image-cards .cards {
+  width: 70%;
+  margin: 25px 0 0 50px;
+}
+h2 {
+  color: #001e6c;
+  margin-top: 20px;
+}
+div.money {
+  display: flex;
+  margin-top: 20px;
+}
+div.money a {
+  color: #0534cc;
+  font-size: 20px;
+  font-weight: bold;
+}
+.signup-image {
+  margin-left: 100px;
+}
+#style-p {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 20px 20px 20px 100px;
+}
+.sign-up {
+  background-color: #ffffcc;
+  width: 80%;
+  height: 35px;
+  border: 1px solid goldenrod;
+  padding-top: 10px;
+  text-align: center;
+}
+.sign-up a {
+  color: #0534cc;
+  font-size: 20px;
+  font-weight: bold;
+}
+.spot-class-p {
+  width: 78%;
+  margin-top: 25px;
+  background-color: #cdd0cb;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px 5px 5px 10px;
+}
+.spotlight .ahref {
+  color: #0534cc;
+  font-weight: bold;
+  font-size: 20px;
+}
+.spotlight span a {
+  color: #0534cc;
+}
+.spotlight .spotlight-1 {
+  display: flex;
+  margin-top: 30px;
+  width: 50%;
+
+
+}
+.spotlight .spotlight-2 {
+  display: flex;
+  margin-top: 20px;
+  width: 50%;
+ 
+}
+.img-icons {
+ margin-right: 30px;
+
+}
+.hyperlinks {
+  margin: 50px 0 0 220px;
+}
+.hyperlinks a {
+  color: #0534cc;
+  margin: 15px;
+}
+footer {
+  text-align: center;
+  margin-top: 20px;
+}
+footer #footer-link a {
+  color: #0534cc;
+}
+footer .img-ads {
+  margin: 20px;
+  width: 50%;
+}
